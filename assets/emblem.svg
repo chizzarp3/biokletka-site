@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 320" width="336" height="320" role="img" aria-label="БИОКЛЕТКА — знак">
+  <title>БИОКЛЕТКА — знак</title>
+  <g transform="translate(176 148)" fill-rule="evenodd">
+    <path id="module-tl" fill="#212724" fill-rule="evenodd" d="M-148 2L-74 2L-76 0L-66 -10L-136 -10L-136 -136L-10 -136L-10 -66L0 -76L2 -74L2 -148L-148 -148Z"/>
+    <path id="module-bl" fill="#212724" fill-rule="evenodd" d="M-176 172L-26 172L-26 50L-38 38L-38 160L-164 160L-164 34L-42 34L-54 22L-176 22Z"/>
+    <path id="module-r" fill="#212724" fill-rule="evenodd" d="M10 134L160 134L160 -16L60 -16L72 -4L148 -4L148 122L22 122L22 54L10 66Z"/>
+    <path id="diamond-ring" fill="#212724" fill-rule="evenodd" d="M0 -64L-64 0L0 64L64 0ZM0 56L-56 0L0 -56L56 0Z"/>
+    <path id="diamond-core" fill="#1E5F55" fill-rule="evenodd" d="M46 0L0 46L-46 0L0 -46Z"/>
+  </g>
+</svg>
