@@ -1,0 +1,1 @@
+import{r as c}from"./index-7jk--PEB.js";const e=matchMedia("(max-width: 760px)"),s=t=>(e.addEventListener("change",t),()=>e.removeEventListener("change",t)),a=()=>e.matches;function m(t,n){const r=c.useSyncExternalStore(s,a);return c.useMemo(()=>[1,r?Math.min(1.5,t):n],[r,n,t])}export{m as u};
